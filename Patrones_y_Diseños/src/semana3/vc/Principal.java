@@ -10,7 +10,6 @@ public class Principal {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		
 
 //		try {
 //			MuseoDAO.insert(new Museo(null,"Juan Manuel Blanes","Av. Millán 4015 Montevideo Uruguay"));
@@ -32,3 +31,4 @@ public class Principal {
 	}	
 	
 }
+

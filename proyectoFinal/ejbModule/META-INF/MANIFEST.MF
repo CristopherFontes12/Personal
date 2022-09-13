@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Main-Class: main.App
+Class-Path: .
+
+Name: oracle/sql/
+Sealed: false
+
+Name: oracle/sql/converter/
+Sealed: false
+
+Name: oracle/sql/converter_xcharset/
+Sealed: false
+

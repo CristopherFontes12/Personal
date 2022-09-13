@@ -8,6 +8,7 @@ import java.util.LinkedList;
 import javax.swing.JOptionPane;
 
 import dao.DaoPersona;
+import viewPersona.GUI;
 
 public class Principal {
 
